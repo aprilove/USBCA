@@ -1,1 +1,1 @@
-USBCA
+Simple USB C - A
